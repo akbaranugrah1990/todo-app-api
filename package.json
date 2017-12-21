@@ -1,0 +1,22 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbaranugrah1990/todo-app-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbaranugrah1990/todo-app-api/issues"
+  },
+  "homepage": "https://github.com/akbaranugrah1990/todo-app-api#readme",
+  "dependencies": {
+    "mongodb": "^3.0.0-rc0"
+  }
+}
